@@ -44,3 +44,4 @@ int main() {
 
 #printhacking
 System.out.println("let us hack together!"):
+new number
